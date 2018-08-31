@@ -1,2 +1,2 @@
-# ipas
+# iPAs
 Hipeopeo's iPA Library
